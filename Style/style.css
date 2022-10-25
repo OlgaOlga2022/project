@@ -190,9 +190,8 @@ body{
 @media screen and (max-width: 550px){
     .flex, .grow_flex{
         flex-direction: column;
+    }       
        
-    }
-}
 
 .container{
     max-width: 500px;
@@ -238,4 +237,5 @@ body{
 
 .commerce_title{
     margin-bottom: 40px;
+}
 }
